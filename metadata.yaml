@@ -1,0 +1,30 @@
+_repo: Wilhelm-Hauffs-samtliche-Werke-in-sechs-Banden-Zweiter-Band_60699
+_version: 0.0.1
+contributor:
+  annotator:
+    agent_name: Weile, Alfred
+    gutenberg_agent_id: '51069'
+    url: http://www.gutenberg.org/2009/agents/51069
+creator:
+  author:
+    agent_name: Hauff, Wilhelm
+    birthdate: 1802
+    deathdate: 1827
+    gutenberg_agent_id: '2125'
+    url: http://www.gutenberg.org/2009/agents/2125
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Wilhelm_Hauff
+    - http://de.wikipedia.org/wiki/Wilhelm_Hauff
+description: ''
+gutenberg_issued: '2019-11-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60699'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Wilhelm Hauffs sämtliche Werke in sechs Bänden, Zweiter Band
+url: http://www.gutenberg.org/ebooks/60699
