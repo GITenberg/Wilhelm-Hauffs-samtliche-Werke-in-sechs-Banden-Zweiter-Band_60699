@@ -1,10 +1,13 @@
 _repo: Wilhelm-Hauffs-samtliche-Werke-in-sechs-Banden-Zweiter-Band_60699
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   annotator:
     agent_name: Weile, Alfred
     gutenberg_agent_id: '51069'
     url: http://www.gutenberg.org/2009/agents/51069
+covers:
+- cover_type: archival
+  image_path: 60699-h/images/cover.jpg
 creator:
   author:
     agent_name: Hauff, Wilhelm
@@ -16,6 +19,8 @@ creator:
     - http://en.wikipedia.org/wiki/Wilhelm_Hauff
     - http://de.wikipedia.org/wiki/Wilhelm_Hauff
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/60699#Wilhelm-Hauffs-samtliche-Werke-in-sechs-Banden-Zweiter-Band
 gutenberg_issued: '2019-11-16'
 gutenberg_type: Text
 identifiers:
